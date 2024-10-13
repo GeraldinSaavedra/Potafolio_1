@@ -213,8 +213,15 @@ a {
     line-height: 19px;
     transform: scale(1);
 }
-}
 
+.rodapie__container{
+    display: flex;
+    /* flex-direction: column;
+   flex-wrap: wrap; */
+   flex-flow: column wrap;
+   align-items: center;
+   text-align: center;
+}
 /* ------------------------------ Responsividad ---------------------------------------*/
 
 /* Tablets y pantallas más grandes */
