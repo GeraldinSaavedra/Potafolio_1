@@ -99,7 +99,7 @@ Este challenge es presentado por Geraldin Saavedra, estuadiante del Proyecto ONE
 
 ## Conclusión
 <p align="justify">
-Participar en el challenge ha sido una oportunidad invaluable para consolidar los conocimientos adquiridos durante los ocho cursos de formación en JavaScript, HTML, y CSS para el diseño de páginas web. Este proceso no solo reforzó mis habilidades técnicas, sino que también me permitió aplicar de manera práctica todo lo aprendido, llevándome a nuevos niveles de comprensión y destreza. 
+Participar en el challenge ha sido una oportunidad invaluable para consolidar los conocimientos adquiridos durante los cursos de formación Front End para el diseño de páginas web. Este proceso no solo reforzó mis habilidades técnicas, sino que también me permitió aplicar de manera práctica todo lo aprendido, llevándome a nuevos niveles de comprensión y destreza. 
 La programación es un campo asombroso que abre puertas a nuevas posibilidades, permitiéndonos explorar y resolver problemas que antes parecían inalcanzables. Nos ayuda a desarrollar el pensamiento lógico, estimula la creatividad e impulsa la innovación, dándonos la oportunidad de transformar nuestras ideas en proyectos que pueden mejorar la ciencia y el día a día de las personas. Estoy muy agradecida por el Proyecto ONE de Oracle+Alura LATAM, que me brinda la oportunidad de formarme como programadora y disfrutar de esta experiencia enriquecedora.
 </p>
 ---
