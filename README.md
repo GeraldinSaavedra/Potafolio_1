@@ -26,7 +26,7 @@
 <p align="justify">
 El presente proyecto es el cumplimiento del challenge creado por ALURA LATAM y ORACLE para que podamos llegar al siguiente nivel en nuestra formación como porgramadores. Es un portafolio donde se puede visualizar la información de mi hoja de vida.
 
-![portafolio]((https://github.com/GeraldinSaavedra/Potafolio_1/blob/main/assets/Captura.PNG))
+![portafolio](https://github.com/GeraldinSaavedra/Potafolio_1/blob/main/assets/Captura.PNG)
 
 </p>
 
@@ -62,16 +62,26 @@ El proyecto se encuentra en desarrollo, ya que si bien, se han cumplido con las 
  <p align="center">
 
 ### Menú principal
-![demo1](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/7b36fdb4bb56ec4c317be7f327008e64c2a2317c/Captura%20de%20pantalla%202024-08-03%20092007.png)
+![demo1](https://github.com/GeraldinSaavedra/Potafolio_1/blob/main/assets/menu.PNG)
 
 
-### Desencriptación del mensaje
+### Sobre mi
 
-![demo2](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/7b36fdb4bb56ec4c317be7f327008e64c2a2317c/Captura%20de%20pantalla%202024-08-03%20092036.png )
+![demo2](https://github.com/GeraldinSaavedra/Potafolio_1/blob/main/assets/sobre%20mi.PNG)
 
-### Desencriptación del mensaje secreto (reto)
+### Habilidades
 
-![demo3](https://github.com/GeraldinSaavedra/challenge_geraldin/blob/df50c0e0f35b2890649d08b80b3353567722a33c/Captura%20de%20pantalla%202024-08-03%20092730.png )
+![demo3](https://github.com/GeraldinSaavedra/Potafolio_1/blob/main/assets/habilidades.PNG)
+
+### Formación profesional
+![demo4](https://github.com/GeraldinSaavedra/Potafolio_1/blob/main/assets/formacion.PNG)
+
+### Experiencia profesional
+![demo5](https://github.com/GeraldinSaavedra/Potafolio_1/blob/main/assets/experiencia.PNG)
+
+### Contacto
+![demo6](https://github.com/GeraldinSaavedra/Potafolio_1/blob/main/assets/contacto.PNG)
+
 
 </p>
 ---
